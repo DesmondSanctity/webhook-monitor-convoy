@@ -1,2 +1,6 @@
-# webhook-monitor-convoy
-A Node.js app that monitors webhooks dispatch in real time using convoy
+# A Simple Nodejs API
+
+## Running the Application
+
+1. Run `npm install`
+2. Run `node server`
