@@ -1,6 +1,6 @@
 const Webhooks = [
   {
-      name: "Test Webhook"
+      name: "Node.js Test Webhook"
   }
 ];
   
